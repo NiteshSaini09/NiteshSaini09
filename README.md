@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Uday Sharma
+# 👋 Hi, I'm Nitesh Saini
 
 ### 💻 MERN Stack Developer | Full-Stack Web Developer
 
 <p>
-  <a href="https://github.com/udaysharmadev">
+  <a href="https://github.com/niteshsaini09">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:nitesh.tech.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
