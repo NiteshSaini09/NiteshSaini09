@@ -127,9 +127,9 @@ Tools          → Git • GitHub • VS Code • Postman
 
 ---
 
-# 📌 Featured Projects
+<!--# 📌 Featured Projects
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://github.com/NiteshSaini09">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=ChatGPT-Practice-level-1&theme=tokyonight&hide_border=true" />
@@ -151,7 +151,7 @@ Tools          → Git • GitHub • VS Code • Postman
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
 </a>
 
-</p>
+</p> -->
 
 ---
 
