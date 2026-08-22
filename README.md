@@ -99,8 +99,17 @@ Tools          → Git • GitHub • VS Code • Postman
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiteshSaini09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshSaini09&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NiteshSaini09&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Nitesh Saini's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshSaini09&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 > 💡 GitHub language statistics represent language usage across repositories and should not be interpreted as a direct measure of skill level.
