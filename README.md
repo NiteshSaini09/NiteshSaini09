@@ -132,7 +132,7 @@ Tools          → Git • GitHub • VS Code • Postman
 <p align="center">
 
 <a href="https://github.com/NiteshSaini09">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=ChatGPT-Practice-level-1&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/NiteshSaini09">
@@ -152,8 +152,6 @@ Tools          → Git • GitHub • VS Code • Postman
 </a>
 
 </p>
-
-> Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, etc. with your actual repository names.
 
 ---
 
