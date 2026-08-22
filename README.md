@@ -98,9 +98,7 @@ Tools          → Git • GitHub • VS Code • Postman
 
 # 📊 GitHub Analytics
 
-<p align="center"> <img src="https://ghstats.dev/api/card?username=NiteshSaini09&theme=tokyonight" alt="Nitesh Saini GitHub Stats" /> </p>
-> 💡 GitHub language statistics represent language usage across repositories and should not be interpreted as a direct measure of skill level.
-
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiteshSaini09&theme=tokyonight" alt="GitHub Profile Details" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiteshSaini09&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiteshSaini09&theme=tokyonight" alt="Repositories Per Language" /> </p>
 ---
 
 # 🔥 Contribution Streak
