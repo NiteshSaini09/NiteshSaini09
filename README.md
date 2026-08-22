@@ -1,208 +1,269 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Nitesh Saini</h1>
 
-# 👋 Hi, I'm Nitesh Saini
+<h3 align="center">
+  🚀 MERN Stack Developer | JavaScript Enthusiast | Building Real-World Web Applications
+</h3>
 
-### 💻 MERN Stack Developer | Full-Stack Web Developer
-
-<p>
-  <a href="https://github.com/niteshsaini09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/NiteshSaini09">
+    <img src="https://komarev.com/ghpvc/?username=NiteshSaini09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <!-- <a href="mailto:nitesh.tech.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/NiteshSaini09?tab=followers">
+    <img src="https://img.shields.io/github/followers/NiteshSaini09?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  <a href="https://github.com/NiteshSaini09">
+    <img src="https://img.shields.io/github/stars/NiteshSaini09?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently working on **MERN Stack E-Commerce Projects**
+I'm **Nitesh Saini**, a passionate **MERN Stack Developer from India 🇮🇳** who enjoys building modern, responsive and scalable web applications.
+
+* 🔭 Currently working on **MERN Stack E-Commerce Website**
 * 🌱 Currently learning **Advanced MERN Stack Development**
-* 💻 Passionate about building **scalable and user-friendly web applications**
-* 👯 Looking to collaborate on **MERN Stack & Open Source Projects**
-* 💬 Ask me about **JavaScript, React, Node.js, Express.js & MongoDB**
-* ⚡ Fun fact: **I love learning new technologies and turning ideas into code 🚀**
+* 💻 Interested in **Full Stack Web Development**
+* 🔐 Learning **Authentication, JWT & REST APIs**
+* 🚀 Love building projects and solving coding problems
+* 🤝 Open to collaborating on interesting **MERN Stack Projects**
+* 📚 Always learning new technologies and improving my development skills
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🧠 What I'm Currently Learning
 
-### 🎨 Frontend
+```text
+Frontend       → React.js • JavaScript • HTML • CSS • Tailwind CSS
+Backend        → Node.js • Express.js • REST APIs
+Database       → MongoDB • MySQL
+Authentication → JWT • Cookies • Access & Refresh Tokens
+Tools          → Git • GitHub • VS Code • Postman
+```
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
+---
 
-### ⚙️ Backend
+## 🛠️ Languages & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+<p align="center">
 
-### 🛠️ Tools & Technologies
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
+</a>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+</a>
+
+<a href="https://postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman"/>
+</a>
+
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiteshSaini09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshSaini09&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+> 💡 GitHub language statistics represent language usage across repositories and should not be interpreted as a direct measure of skill level.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+---
 
-</div>
+# 🔥 Contribution Streak
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=udaysharmadev&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NiteshSaini09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 # 📈 Contribution Activity
 
-<div align="center">
-
-[![Uday's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev\&theme=tokyo-night\&hide_border=true)](https://github.com/udaysharmadev)
-
-</div>
+<p align="center">
+  <a href="https://github.com/NiteshSaini09">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshSaini09&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NiteshSaini09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/udaysharmadev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=YOUR-PROJECT-1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/NiteshSaini09">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/udaysharmadev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=YOUR-PROJECT-2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/NiteshSaini09">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
-
-<a href="https://github.com/udaysharmadev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=YOUR-PROJECT-3&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/NiteshSaini09">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/udaysharmadev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=YOUR-PROJECT-4&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/NiteshSaini09">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</p>
+
+> Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, etc. with your actual repository names.
 
 ---
 
-# 📊 GitHub Contribution Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/udaysharmadev/udaysharmadev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-> ⚠️ The snake requires a GitHub Action in your profile repository. Setup instructions are provided below.
-
----
-
-# 📈 My GitHub Journey
-
-<div align="center">
-
-| 📦 Total Repositories |    ⭐ Stars    | 🔥 Contribution Streak | 💻 Contributions |
-| :-------------------: | :-----------: | :--------------------: | :--------------: |
-|     **Growing 🚀**    | **Growing ⭐** |    **See Above 🔥**    | **See Graph 📈** |
-
-</div>
-
----
-
-# 🎯 Current Focus
+# 📚 My Development Journey
 
 ```text
-Frontend       ███████████████████░░   React.js
-Backend        █████████████████░░░░   Node.js / Express.js
-Database       ████████████████░░░░░   MongoDB
-APIs           ███████████████░░░░░░   REST APIs
-Auth           ██████████████░░░░░░░   JWT Authentication
-Dev Tools      ██████████████████░░░   Git / GitHub
+HTML & CSS
+     ↓
+JavaScript
+     ↓
+React.js
+     ↓
+Node.js + Express.js
+     ↓
+MongoDB
+     ↓
+REST APIs
+     ↓
+Authentication & JWT
+     ↓
+Full Stack MERN Applications 🚀
 ```
+
+---
+
+# 💻 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Frontend
+
+* Responsive Websites
+* React Applications
+* Modern UI
+* Tailwind CSS
+* JavaScript Applications
+* REST API Integration
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+
+* Node.js APIs
+* Express.js Servers
+* MongoDB Applications
+* Authentication
+* JWT
+* Access & Refresh Tokens
+* CRUD APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Learn JavaScript Fundamentals
+* [x] Learn React.js
+* [x] Learn Node.js
+* [x] Learn Express.js
+* [x] Learn MongoDB
+* [ ] Build Production-Level MERN Applications
+* [ ] Improve Advanced React Skills
+* [ ] Improve Backend Architecture
+* [ ] Contribute to Open Source
+* [ ] Build and Deploy More Full Stack Projects
+* [ ] Become a Job-Ready Full Stack Developer 🚀
 
 ---
 
 # 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-I'm always interested in connecting with developers, collaborating on projects,
-and learning new technologies.
-
-<br>
-
-<a href="https://github.com/niteshsaini09">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/NiteshSaini09">
+  <img src="https://img.shields.io/badge/GitHub-NiteshSaini09-181717?style=for-the-badge&logo=github" />
 </a>
 
-<!-- <a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> -->
+<a href="mailto:nitesh.tech.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nitesh.tech.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<!-- <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> -->
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">
+  💬 Ask me about JavaScript, React.js, Node.js, Express.js & MongoDB
+</h3>
 
-### 💙 Thanks for visiting my profile!
+<h3 align="center">
+  ⚡ I love learning new technologies and building things with code 🚀
+</h3>
 
-⭐ **If you find my projects useful, consider giving them a star!**
+<p align="center">
+  <b>⭐ If you find my projects useful, consider giving them a star!</b>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=blue&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
+</p>
