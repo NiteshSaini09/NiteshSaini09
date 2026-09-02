@@ -129,8 +129,8 @@ Tools          → Git • GitHub • VS Code • Postman
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshSaini09&theme=tokyo-night&hide_border=true&area=true"
-    alt="Nitesh GitHub Activity Graph"
+    src="./output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
