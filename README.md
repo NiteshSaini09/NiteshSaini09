@@ -123,6 +123,28 @@ Tools          → Git • GitHub • VS Code • Postman
   />
 </p>
 
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshSaini09&theme=tokyo-night&hide_border=true&area=true"
+    alt="Nitesh Saini GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=NiteshSaini09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 ---
 
