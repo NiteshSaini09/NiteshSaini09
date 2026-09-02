@@ -125,12 +125,11 @@ Tools          → Git • GitHub • VS Code • Postman
 
 ---
 
-# 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="./output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshSaini09&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
@@ -140,11 +139,10 @@ Tools          → Git • GitHub • VS Code • Postman
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=NiteshSaini09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=NiteshSaini09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
     alt="GitHub Trophies"
   />
 </p>
-
 
 ---
 
