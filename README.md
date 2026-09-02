@@ -125,7 +125,7 @@ Tools          → Git • GitHub • VS Code • Postman
 
 ---
 
-
+# 📈 Contribution Activity
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshSaini09&theme=tokyo-night&hide_border=true"
@@ -142,7 +142,29 @@ Tools          → Git • GitHub • VS Code • Postman
     src="https://github-profile-trophy.vercel.app/?username=NiteshSaini09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
     alt="GitHub Trophies"
   />
-</p>
+</p
+
+---
+# 🎯 Currently Focusing On
+
+<table>
+<tr>
+<td>⚛️ React.js</td>
+<td>🚀 Advanced MERN</td>
+</tr>
+<tr>
+<td>🔐 JWT Authentication</td>
+<td>⚙️ Backend Architecture</td>
+</tr>
+<tr>
+<td>🗄️ MongoDB</td>
+<td>🌐 REST APIs</td>
+</tr>
+<tr>
+<td>☁️ Deployment</td>
+<td>🧪 API Testing</td>
+</tr>
+</table>
 
 ---
 
