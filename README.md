@@ -98,36 +98,31 @@ Tools          → Git • GitHub • VS Code • Postman
 
 # 📊 GitHub Analytics
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiteshSaini09&theme=tokyonight" alt="GitHub Profile Details" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiteshSaini09&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiteshSaini09&theme=tokyonight" alt="Repositories Per Language" /> </p>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiteshSaini09&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiteshSaini09&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
+
 ---
 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NiteshSaini09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshSaini09&theme=tokyo-night&hide_border=true&area=true"
-    alt="Nitesh Saini GitHub Activity Graph"
+    src="https://streak-stats.demolab.com?user=NiteshSaini09&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=NiteshSaini09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
 
 ---
 
