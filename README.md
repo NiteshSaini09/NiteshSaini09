@@ -126,11 +126,15 @@ Tools          → Git • GitHub • VS Code • Postman
 ---
 
 # 📈 Contribution Activity
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshSaini09&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <a href="https://github.com/NiteshSaini09">
+    <img
+      src="https://ghchart.rshah.org/NiteshSaini09"
+      alt="Nitesh Saini GitHub Contribution Graph"
+      width="90%"
+    />
+  </a>
 </p>
 
 ---
