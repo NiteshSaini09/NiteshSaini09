@@ -176,7 +176,7 @@ Tools          → Git • GitHub • VS Code • Postman
 
 <p align="center">
 
-<a href="https://github.com/NiteshSaini09/ecommerce-backend-api"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=ecommerce-backend-api&theme=tokyonight&hide_border=true" /> </a>
+<a href="https://github.com/NiteshSaini09/E-Commerce-Backend-API"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=ecommerce-backend-api&theme=tokyonight&hide_border=true" /> </a>
 
 <a href="https://github.com/NiteshSaini09/Task-Manager-Backend-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=Task-Manager-Backend-Project&theme=tokyonight&hide_border=true" /> </a>
 
