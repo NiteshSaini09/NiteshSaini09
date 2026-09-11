@@ -172,31 +172,52 @@ Tools          → Git • GitHub • VS Code • Postman
 
 ---
 
-<!--# 📌 Featured Projects
-
- <p align="center">
-
-<a href="https://github.com/NiteshSaini09">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=ChatGPT-Practice-level-1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/NiteshSaini09">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
+🚀 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/NiteshSaini09">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/NiteshSaini09/ecommerce-backend-api"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=ecommerce-backend-api&theme=tokyonight&hide_border=true" /> </a>
 
-<a href="https://github.com/NiteshSaini09">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/NiteshSaini09/Task-Manager-Backend-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshSaini09&repo=Task-Manager-Backend-Project&theme=tokyonight&hide_border=true" /> </a>
 
-</p> -->
+</p>
+
+🛒 E-Commerce Backend API
+
+A complete RESTful e-commerce backend built with Node.js, Express.js and MongoDB.
+
+Key Features:
+
+🔐 JWT Authentication & Role-Based Authorization
+📦 Product & Category Management
+🖼️ Multer + Cloudinary Image Uploads
+🔎 Search, Filtering, Sorting & Pagination
+🛒 Cart & Checkout Workflow
+📋 Order Management & Stock Handling
+⭐ Verified-Purchase Reviews & Rating System
+✅ Joi Request Validation
+🛡️ Centralized Error Handling
+
+Tech: Node.js Express.js MongoDB Mongoose JWT Joi Cloudinary
+
+🔗 View Project
+
+📋 Task Management API
+
+A RESTful task management backend with secure authentication and user authorization.
+
+Key Features:
+
+🔐 User Registration & Login
+🔑 JWT Authentication
+👤 Authorization
+📝 Task CRUD Operations
+🛡️ Protected API Routes
+🗄️ MongoDB Database Integration
+
+Tech: Node.js Express.js MongoDB JWT
+
+🔗 View Project
 
 ---
 
